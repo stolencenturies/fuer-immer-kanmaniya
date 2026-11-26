@@ -1,5 +1,5 @@
 
-import { Heart, Printer } from "lucide-react";
+import {  Printer } from "lucide-react";
 
 function Navbar() {
   return (

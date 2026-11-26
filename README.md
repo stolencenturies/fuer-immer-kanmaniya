@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="src/assets/readme-banner.png"
+    alt="Für immer, Kanmaniya"
+    width="100%"
+  />
+</p>
+
 # ♡ Für immer, Kanmaniya
 ### *Ein Mosaik aus zwei Herzen — A mosaic of two hearts.*
 
@@ -35,6 +43,53 @@ This website is a collection of the little things that make their story theirs.
 
 One day, perhaps, there will be no more counting the distance between two cities.
 
+=======
+<p align="center">
+  <img
+    src="src/assets/readme-banner.png"
+    alt="Für immer, Kanmaniya — Ravenclaw and Slytherin"
+    width="100%"
+  />
+</p>
+
+# ♡ Für immer, Kanmaniya
+### *Ein Mosaik aus zwei Herzen — A mosaic of two hearts.*
+
+<p align="center">
+  <em>“Somewhere between a Ravenclaw's dreams and a Slytherin's determination, two stories began becoming one.”</em>
+</p>
+
+---
+
+<p align="center">
+  💙 **RAVENCLAW** &nbsp; × &nbsp; 💚 **SLYTHERIN**
+  
+  *She dreams in shades of blue. He builds his dreams in green.*
+</p>
+
+## 𓂃 The story behind this little universe
+
+Once upon a time, somewhere in this enormous world, two people found each other.
+
+She was our Ravenclaw — thoughtful, clever, gentle, and full of little dreams. The kind of person who could make an ordinary day feel like a page from a beautiful book.
+
+He was our Slytherin — ambitious, determined, a little stubborn, and always planning for the future.
+
+Different houses. Different personalities. One little universe.
+
+And somewhere along the way, they started imagining a life beyond the distance between them.
+
+A life with quiet mornings, warm cafés, rainy streets, old bookstores, and perhaps a little apartment somewhere in Germany.
+
+This website is a collection of the little things that make their story theirs.
+
+## 🗺️ The German Dream
+
+*Ein Traum, den wir eines Tages gemeinsam leben möchten.*
+
+One day, perhaps, there will be no more counting the distance between two cities.
+
+>>>>>>> 035b01a (Add magical scrapbook README banner)
 Just the two of us, walking through beautiful German streets, discovering little cafés, visiting bookstores, learning new things, and making memories that don't need to be saved on a screen.
 
 Maybe Munich. Maybe somewhere quieter.
@@ -127,4 +182,3 @@ Made with love, for our little forever.
   *You are my favourite person.*
   
   **S & S — Für immer. ♡**
-</p>
